@@ -1,2 +1,4 @@
 # annanguyen2022.github.io
-First Repos
+Course: MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
+
+When: December 2021
